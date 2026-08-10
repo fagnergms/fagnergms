@@ -41,7 +41,7 @@ I build automations and AI agents, integrating generative AI APIs (OpenAI, Gemin
 
 ## GitHub stats
 
-![Fagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=fagnergms&show_icons=true&theme=radical&hide_border=true&cache_bust=2)
+![Followers](https://img.shields.io/github/followers/fagnergms?style=for-the-badge&logo=github&color=181717&label=Followers) &nbsp; ![Profile views](https://komarev.com/ghpvc/?username=fagnergms&style=for-the-badge&color=blueviolet&label=Profile+Views)
 ![Streak stats](https://streak-stats.demolab.com/?user=fagnergms&theme=radical&hide_border=true)
 
 ## Contact
